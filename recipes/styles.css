@@ -1,8 +1,59 @@
-h1, h2, p, ul {
+* {
+    background-color: rgb(164, 26, 26);
     text-align: center;
 }
 
-img {
-    width: 49vh;
+body {
+    margin: 0px;
 }
 
+h1 {
+    font-size: 35px;
+    background-color: rgb(255, 208, 0);
+    color: rgb(164, 26, 26);
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(255, 208, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2:hover {
+    background-color: rgb(255, 208, 0);
+    color: rgb(164, 26, 26);
+}
+
+p {
+    color: white;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+img {
+    height: 49vh;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+
+hr {
+    border-color: white;
+    background-color: rgb(127, 12, 12);
+    border-style: none;
+    margin: auto;
+    width: 400px;
+    height: 2px;
+}
