@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors Death Match!
-## Live Preview <a href="https://anaseig.github.io/odin_recipes">HERE</a>
+## Live Preview <a href="https://anaseig.github.io/odin_recipes" target="_blank">HERE</a>
 
 <img src="recipes/preview.png">
 
