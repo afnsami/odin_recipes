@@ -1,5 +1,5 @@
 # Odin Recipes
-## Live Preview <a href="https://anaseig.github.io/odin_recipes" target="_blank">HERE</a>
+## Live Preview <a href="https://afnsami.github.io/odin_recipes" target="_blank">HERE</a>
 
 <img src="recipes/preview.png">
 
